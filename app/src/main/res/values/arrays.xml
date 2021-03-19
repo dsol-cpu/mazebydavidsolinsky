@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mazeItems">spinnerItems
+        <item>Backtracking</item>
+        <item>Prim</item>
+        <item>Kruskal</item>
+    </string-array>
+
+    <string-array name="robotItems">spinnerItems
+        <item>Manual</item>
+        <item>Wallfollower</item>
+        <item>Wizard</item>
+    </string-array>
+</resources>
